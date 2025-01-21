@@ -1,4 +1,4 @@
-## Hi, I`m Cliffordson!
+## Hi, I`m Cliffordson!   
 
 - 📤 Sharing about my learning journey in the area of Systems Analysis and Development.<br/>
 - 👨🏾‍🎓Studying [Systems Analysis and Development] at UNICV University in Maringá, Paraná, Brazil.<br/>
@@ -6,7 +6,7 @@
 - 🍃Currently learning about figma, framer, spline, react, tailwind css, gsap, html, JS, for websites and applications<br/>
 - ⚡Learning C++, Solidity, Java<br/>
 
-# 💻 Tech Stack:
+# ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/6f3d3e2a2bb537163d7a42947128e73b872d6bf8/Animation%20-%201737484686066.gif) Tech Stack:   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
@@ -25,7 +25,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![Cliffordson01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cliffordson01&show_icons=true&theme=tokyonight&hide_show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cliffordson01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
