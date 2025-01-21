@@ -33,7 +33,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Cliffordson01&theme=tokyonight&hide-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?quote=O%20desenvolvimento%20%C3%A9%20uma%20jornada%20de%20aprendizado%20cont%C3%ADnuo,%20onde%20cada%20linha%20de%20c%C3%B3digo%20transforma%20ideias%20em%20solu%C3%A7%C3%B5es%20inovadoras.%20-%20Cliffordson01&type=horizontal&theme=radical)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Cliffordson01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
