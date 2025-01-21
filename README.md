@@ -27,7 +27,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 # 📊 GitHub Stats:
 ![Cliffordson01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cliffordson01&show_icons=true&theme=tokyonight&hide_show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
-![Cliffordson01's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Cliffordson01&theme=dark&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cliffordson01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
