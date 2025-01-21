@@ -29,7 +29,7 @@
 ![Cliffordson01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cliffordson01&show_icons=true&theme=tokyonight&hide_show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cliffordson01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![Minha Animação Lottie](https://raw.githubusercontent.com/Cliffordson01/Cliffordson01/d56f0d57c6527463f7526e7ae3397bf0b9afe7d5/Animation%20-%201737483551001.gif)
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cliffordson01&theme=tokyonight&hide-frame=false&no-bg=true&margin-w=4)
