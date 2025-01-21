@@ -33,4 +33,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Design Projects:
-https://github.com/Cliffordson01/Cliffordson01/blob/8a2cbe6a295b7d8e469eb0f467a316cd9f019b14/Group%201.png
+![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/Group%201.png)
+
+![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/Wireframe%20-%201.png)
+
+![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/thermo3d.jpg)
+
+![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/thermo3d.jpg)
