@@ -32,13 +32,13 @@
 ![Minha Animação Lottie](https://raw.githubusercontent.com/Cliffordson01/Cliffordson01/d56f0d57c6527463f7526e7ae3397bf0b9afe7d5/Animation%20-%201737483551001.gif)
 ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737485754284.gif)
 ---
-## ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737485262406.gif) GitHub Trophies
+# ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737485262406.gif) GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cliffordson01&theme=tokyonight&hide-frame=false&no-bg=true&margin-w=4)
 ---
-### ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737485671436.gif) Random Dev Quote
+# ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737485671436.gif) Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?quote=O%20desenvolvimento%20%C3%A9%20uma%20jornada%20de%20aprendizado%20cont%C3%ADnuo,%20onde%20cada%20linha%20de%20c%C3%B3digo%20transforma%20ideias%20em%20solu%C3%A7%C3%B5es%20inovadoras.%20-%20Cliffordson01&type=horizontal&theme=radical)
 ---
-### ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737486030324.gif) Top Contributed Repo
+# ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737486030324.gif) Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Cliffordson01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
