@@ -32,11 +32,8 @@
 [![](https://visitcount.itsvg.in/api?id=Cliffordson01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ## Design Projects:
-![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/Group%201.png)
-
-![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/Wireframe%20-%201.png)
-
-![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/thermo3d.jpg)
-
-![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/98a23038854db129b55d436b532e3c688fd623d2/Icon3d.jpg))
+| ![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/Group%201.png) | ![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/Wireframe%20-%201.png) |
+|:-----------------------------------------------------------:|:------------------------------------------------------------:|
+| ![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/thermo3d.jpg) | ![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/98a23038854db129b55d436b532e3c688fd623d2/Icon3d.jpg) |
