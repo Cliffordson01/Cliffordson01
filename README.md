@@ -34,6 +34,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Design Projects:
-| ![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/Group%201.png) | ![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/Wireframe%20-%201.png) |
+| ![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/bdf4cba8840a8e939057632cfae05cbf45932538/frame.jpg) | ![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/Wireframe%20-%201.png) |
 |:-----------------------------------------------------------:|:------------------------------------------------------------:|
 | ![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/b7b03b83749b9025519aefa1df6cc3debcc30cb6/thermo3d.jpg) | ![image alt](https://github.com/Cliffordson01/Cliffordson01/blob/6703a17ddea5f36d696050048ab40527b6209590/fto3d.jpg) |
