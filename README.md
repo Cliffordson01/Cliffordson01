@@ -7,7 +7,6 @@
 - 🗣I speak Portuguese, English and French<br/>
 ---
 ## ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/6f3d3e2a2bb537163d7a42947128e73b872d6bf8/Animation%20-%201737484686066.gif) Tech Stack:   
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
