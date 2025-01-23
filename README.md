@@ -3,7 +3,7 @@
 - 👨🏾‍🎓Studying [Systems Analysis and Development] at UNICV University in Maringá, Paraná, Brazil.<br/>
 - 🎓Graduated in [UX DESIGN at grow with google | Coursera](https://www.coursera.org/account/accomplishments/professional-cert/XTMKVVL2C36L)<br/>
 - 🍃Currently learning about figma, framer, spline, react, tailwind css, gsap, html, JS, for websites and applications<br/>
-- ⚡Learning C++, Solidity, Java<br/>
+- ⚡Learning C, Solidity, Java<br/>
 - 🗣I speak Portuguese, English and French<br/>
 ---
 ## ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/6f3d3e2a2bb537163d7a42947128e73b872d6bf8/Animation%20-%201737484686066.gif) Tech Stack:   
