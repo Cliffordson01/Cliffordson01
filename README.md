@@ -1,10 +1,10 @@
 ## ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/eab586a91e2157bb8f65041dc30af1c5df6b0104/Animation%20-%201737486928014.gif) Hi, I`m Cliffordson!   
 - 📤 Sharing about my learning journey in the area of Systems Analysis and Development.<br/>
-- 👨🏾‍🎓Studying [Systems Analysis and Development] at UNICV University in Maringá, Paraná, Brazil.<br/>
-- 🎓Graduated in [UX DESIGN at grow with google | Coursera](https://www.coursera.org/account/accomplishments/professional-cert/XTMKVVL2C36L)<br/>
-- 🍃Currently learning about figma, framer, spline, react, tailwind css, gsap, html, JS, for websites and applications<br/>
-- ⚡Learning C, Solidity, Java<br/>
-- 🗣I speak Portuguese, English and French<br/>
+- 👨🏾‍🎓 Studying [Systems Analysis and Development] at UNICV University in Maringá, Paraná, Brazil.<br/>
+- 🎓 Graduated in [UX DESIGN at grow with google | Coursera](https://www.coursera.org/account/accomplishments/professional-cert/XTMKVVL2C36L)<br/>
+- 🍃 Currently learning about figma, framer, spline, react, tailwind css, gsap, html, JS, for websites and applications<br/>
+- ⚡ Learning C, Solidity, Java<br/>
+- 🗣 I speak Portuguese, English and French<br/>
 ---
 ## ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/6f3d3e2a2bb537163d7a42947128e73b872d6bf8/Animation%20-%201737484686066.gif) Tech Stack:   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
