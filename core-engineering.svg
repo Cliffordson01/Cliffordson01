@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="380" viewBox="0 0 860 380">
+  <rect width="860" height="380" rx="12" fill="#1b2932" stroke="#2d4050" stroke-width="1.5"/>
+  <rect width="860" height="44" rx="12" fill="#162229"/>
+  <rect y="32" width="860" height="12" fill="#162229"/>
+  <text x="24" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#d3b58e" font-weight="700" letter-spacing="0.5">CORE ENGINEERING</text>
+
+  <!-- Left column -->
+  <!-- Workflow Automation -->
+  <text x="24" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8a9ba8" font-weight="600">WORKFLOW AUTOMATION</text>
+  <line x1="24" y1="78" x2="400" y2="78" stroke="#263d4a" stroke-width="1"/>
+  <text x="24" y="96" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  n8n multi-step flows, production grade</text>
+  <text x="24" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Event-driven architecture with async queues</text>
+  <text x="24" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Retry logic and dead-letter queues</text>
+  <text x="24" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Webhook triggers and scheduled jobs</text>
+  <text x="24" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Full execution logging at scale</text>
+
+  <!-- Backend Orchestration -->
+  <text x="24" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8a9ba8" font-weight="600">BACKEND ORCHESTRATION</text>
+  <line x1="24" y1="206" x2="400" y2="206" stroke="#263d4a" stroke-width="1"/>
+  <text x="24" y="224" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Document processing pipeline design</text>
+  <text x="24" y="242" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  REST and webhook integration patterns</text>
+  <text x="24" y="260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Queue-based async job management</text>
+  <text x="24" y="278" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Error isolation and fault boundaries</text>
+  <text x="24" y="296" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  API normalization across systems</text>
+
+  <!-- Vertical divider -->
+  <line x1="440" y1="54" x2="440" y2="356" stroke="#263d4a" stroke-width="1"/>
+
+  <!-- Right column -->
+  <!-- Data & Storage -->
+  <text x="464" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8a9ba8" font-weight="600">DATA AND STORAGE</text>
+  <line x1="464" y1="78" x2="840" y2="78" stroke="#263d4a" stroke-width="1"/>
+  <text x="464" y="96" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Relational schema design (Supabase/PG)</text>
+  <text x="464" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  High-volume document pipelines</text>
+  <text x="464" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Audit trails and status tracking</text>
+  <text x="464" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Data integrity patterns at scale</text>
+  <text x="464" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Structured flows with validation layers</text>
+
+  <!-- Infrastructure -->
+  <text x="464" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8a9ba8" font-weight="600">INFRASTRUCTURE</text>
+  <line x1="464" y1="206" x2="840" y2="206" stroke="#263d4a" stroke-width="1"/>
+  <text x="464" y="224" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Multi-VPS production management</text>
+  <text x="464" y="242" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Deployment, monitoring, maintenance</text>
+  <text x="464" y="260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Health checks and anomaly alerting</text>
+  <text x="464" y="278" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Log aggregation across services</text>
+  <text x="464" y="296" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a8bfcc">▸  Observable, fault-tolerant design</text>
+
+  <!-- Footer -->
+  <line x1="20" y1="322" x2="840" y2="322" stroke="#263d4a" stroke-width="1"/>
+  <text x="24" y="354" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#4a6070" font-style="italic">Production-grade systems built for failure recovery, observability, and scale.</text>
+</svg>

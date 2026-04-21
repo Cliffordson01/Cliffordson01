@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340">
+  <rect width="860" height="340" rx="12" fill="#1b2932" stroke="#2d4050" stroke-width="1.5"/>
+  <rect width="860" height="52" rx="12" fill="#162229"/>
+  <rect y="40" width="860" height="12" fill="#162229"/>
+
+  <rect x="20" y="14" width="26" height="22" rx="4" fill="#263d4a"/>
+  <text x="33" y="29" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8a9ba8" text-anchor="middle" font-weight="600">03</text>
+
+  <text x="56" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13.5" fill="#d3b58e" font-weight="700" letter-spacing="0.5">PRODUCTION AUTOMATION INFRA — LABS and FLOWS</text>
+
+  <rect x="20" y="60" width="72" height="18" rx="3" fill="#263d4a"/>
+  <text x="56" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8a9ba8" text-anchor="middle">Multi-VPS</text>
+  <rect x="97" y="60" width="82" height="18" rx="3" fill="#263d4a"/>
+  <text x="138" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8a9ba8" text-anchor="middle">Monitoring</text>
+  <rect x="184" y="60" width="82" height="18" rx="3" fill="#263d4a"/>
+  <text x="225" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8a9ba8" text-anchor="middle">Deployment</text>
+  <rect x="271" y="60" width="88" height="18" rx="3" fill="#263d4a"/>
+  <text x="315" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8a9ba8" text-anchor="middle">Self-healing</text>
+  <rect x="364" y="60" width="118" height="18" rx="3" fill="#263d4a"/>
+  <text x="423" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8a9ba8" text-anchor="middle">Log Aggregation</text>
+
+  <text x="20" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#6b8899">Problem</text>
+  <text x="82" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8fa8b8">→  Multiple environments in production — different workloads, uptime SLAs,</text>
+  <text x="82" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8fa8b8">     release cycles — managed by one person, zero ops team.</text>
+
+  <line x1="20" y1="140" x2="840" y2="140" stroke="#263d4a" stroke-width="1"/>
+
+  <rect x="20" y="150" width="90" height="20" rx="3" fill="#1f3040"/>
+  <text x="65" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#d3b58e" text-anchor="middle" font-weight="600">SEGMENT</text>
+  <text x="122" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8bfcc">→  VPS environments by workload type and criticality</text>
+
+  <rect x="20" y="178" width="90" height="20" rx="3" fill="#1f3040"/>
+  <text x="65" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#d3b58e" text-anchor="middle" font-weight="600">MONITOR</text>
+  <text x="122" y="192" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8bfcc">→  Health checks + alerting on anomalies and failures</text>
+
+  <rect x="20" y="206" width="90" height="20" rx="3" fill="#1f3040"/>
+  <text x="65" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#d3b58e" text-anchor="middle" font-weight="600">DEPLOY</text>
+  <text x="122" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8bfcc">→  Structured process with rollback capability</text>
+
+  <rect x="20" y="234" width="90" height="20" rx="3" fill="#1f3040"/>
+  <text x="65" y="248" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#d3b58e" text-anchor="middle" font-weight="600">AGGREGATE</text>
+  <text x="122" y="248" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8bfcc">→  Centralized log collection across all services</text>
+
+  <rect x="20" y="262" width="90" height="20" rx="3" fill="#1f3040"/>
+  <text x="65" y="276" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#d3b58e" text-anchor="middle" font-weight="600">AUTOMATE</text>
+  <text x="122" y="276" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8bfcc">→  Maintenance: cleanup · backup · re-queue — automated</text>
+
+  <line x1="20" y1="294" x2="840" y2="294" stroke="#263d4a" stroke-width="1"/>
+  <text x="20" y="318" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#6b8899">Result</text>
+  <text x="72" y="318" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#d3b58e" font-weight="600">→  Infrastructure that operates autonomously. The backbone of labsandflows.com.br</text>
+</svg>
