@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340">
+  <rect width="860" height="340" rx="12" fill="#1b2932" stroke="#2d4050" stroke-width="1.5"/>
+  
+  <!-- Header bar -->
+  <rect width="860" height="52" rx="12" fill="#162229"/>
+  <rect y="40" width="860" height="12" fill="#162229"/>
+
+  <!-- Number badge -->
+  <rect x="20" y="14" width="26" height="22" rx="4" fill="#263d4a"/>
+  <text x="33" y="29" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8a9ba8" text-anchor="middle" font-weight="600">01</text>
+
+  <!-- Title -->
+  <text x="56" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13.5" fill="#d3b58e" font-weight="700" letter-spacing="0.5">LARGE-SCALE DOCUMENT PROCESSING PIPELINE</text>
+
+  <!-- Stack badges -->
+  <rect x="20" y="60" width="38" height="18" rx="3" fill="#263d4a"/>
+  <text x="39" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8a9ba8" text-anchor="middle">n8n</text>
+  <rect x="63" y="60" width="64" height="18" rx="3" fill="#263d4a"/>
+  <text x="95" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8a9ba8" text-anchor="middle">Supabase</text>
+  <rect x="132" y="60" width="52" height="18" rx="3" fill="#263d4a"/>
+  <text x="158" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8a9ba8" text-anchor="middle">Queues</text>
+  <rect x="189" y="60" width="68" height="18" rx="3" fill="#263d4a"/>
+  <text x="223" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8a9ba8" text-anchor="middle">Webhooks</text>
+  <rect x="262" y="60" width="112" height="18" rx="3" fill="#263d4a"/>
+  <text x="318" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#8a9ba8" text-anchor="middle">Dead-letter pattern</text>
+
+  <!-- Problem -->
+  <text x="20" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#6b8899">Problem</text>
+  <text x="82" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8fa8b8">→  Thousands of documents needed to be classified, extracted and stored</text>
+  <text x="82" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8fa8b8">     automatically, with zero tolerance for silent failures.</text>
+
+  <!-- Divider -->
+  <line x1="20" y1="140" x2="840" y2="140" stroke="#263d4a" stroke-width="1"/>
+
+  <!-- Pipeline rows -->
+  <!-- INGEST -->
+  <rect x="20" y="150" width="74" height="20" rx="3" fill="#1f3040"/>
+  <text x="57" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#d3b58e" text-anchor="middle" font-weight="600">INGEST</text>
+  <text x="106" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8bfcc">→  Webhook triggers feed a prioritized processing queue</text>
+
+  <!-- PROCESS -->
+  <rect x="20" y="178" width="74" height="20" rx="3" fill="#1f3040"/>
+  <text x="57" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#d3b58e" text-anchor="middle" font-weight="600">PROCESS</text>
+  <text x="106" y="192" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8bfcc">→  n8n: classify · extract · transform · validate</text>
+
+  <!-- STORE -->
+  <rect x="20" y="206" width="74" height="20" rx="3" fill="#1f3040"/>
+  <text x="57" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#d3b58e" text-anchor="middle" font-weight="600">STORE</text>
+  <text x="106" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8bfcc">→  Supabase with relational schemas + full audit log</text>
+
+  <!-- RECOVER -->
+  <rect x="20" y="234" width="74" height="20" rx="3" fill="#1f3040"/>
+  <text x="57" y="248" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#d3b58e" text-anchor="middle" font-weight="600">RECOVER</text>
+  <text x="106" y="248" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8bfcc">→  Dead-letter queues + automatic retry on failure</text>
+
+  <!-- OBSERVE -->
+  <rect x="20" y="262" width="74" height="20" rx="3" fill="#1f3040"/>
+  <text x="57" y="276" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#d3b58e" text-anchor="middle" font-weight="600">OBSERVE</text>
+  <text x="106" y="276" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8bfcc">→  Per-document status tracking + full execution history</text>
+
+  <!-- Result -->
+  <line x1="20" y1="294" x2="840" y2="294" stroke="#263d4a" stroke-width="1"/>
+  <text x="20" y="318" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#6b8899">Result</text>
+  <text x="72" y="318" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#d3b58e" font-weight="600">→  Self-healing pipeline. Running in production. Observable from day one.</text>
+</svg>
