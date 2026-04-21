@@ -1,50 +1,194 @@
-## ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/eab586a91e2157bb8f65041dc30af1c5df6b0104/Animation%20-%201737486928014.gif) Hi, I`m Cliffordson!   
-- 📤 Sharing about my learning journey in the area of Systems Analysis and Development.<br/>
-- 👨🏾‍🎓 Studying [Systems Analysis and Development] at UNICV University in Maringá, Paraná, Brazil.<br/>
-- 🎓 Graduated in [UX DESIGN at grow with google | Coursera](https://www.coursera.org/account/accomplishments/professional-cert/XTMKVVL2C36L)<br/>
-- 🍃 Currently learning about figma, framer, spline, react, tailwind css, gsap, html, JS, for websites and applications<br/>
-- ⚡ Learning C, Solidity, Java<br/>
-- 🗣 I speak Portuguese, English and French<br/>
----
-## ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/6f3d3e2a2bb537163d7a42947128e73b872d6bf8/Animation%20-%201737484686066.gif) Tech Stack:   
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-!![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
----
-## ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737485344579.gif) GitHub Stats:
-![Cliffordson01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cliffordson01&show_icons=true&theme=tokyonight&hide_show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cliffordson01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Minha Animação Lottie](https://raw.githubusercontent.com/Cliffordson01/Cliffordson01/d56f0d57c6527463f7526e7ae3397bf0b9afe7d5/Animation%20-%201737483551001.gif)
-![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737485754284.gif)
----
-## ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737485262406.gif) GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Cliffordson01&theme=tokyonight&hide-frame=false&no-bg=true&margin-w=4)
----
-## ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737485671436.gif) Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?quote=Development%20is%20a%20journey%20of%20continuous%20learning,%20where%20every%20line%20of%20code%20transforms%20ideas%20into%20innovative%20solutions.%20-%20Cliffordson01&type=horizontal&theme=radical)
----
-## ![Minha Animação Lottie](https://github.com/Cliffordson01/Cliffordson01/blob/246dcc3c05048e746e31a6309db81ab3ce026441/Animation%20-%201737486030324.gif) Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Cliffordson01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=&fontSize=0&animation=fadeIn" />
+
+<!-- TITLE -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Automation+%26+Systems+Engineer;Backend+Orchestration+Specialist;Building+Systems+That+Scale" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <em>I design and maintain production-grade automation systems — from data pipelines and API integrations<br>to scalable workflow architectures running on real infrastructure.</em>
+</p>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Cliffordson01&icon=0&color=0)](https://visitcount.itsvg.in)
+## ⚙️ What I Build
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I work at the intersection of **automation engineering**, **backend architecture**, and **systems design** — building infrastructure that processes data at scale, connects complex systems, and runs reliably in production.
 
+This isn't about tutorials or side projects. These are live systems handling real workloads.
 
+```
+  Trigger → Queue → Process → Validate → Store → Notify → Retry on failure
+```
 
+---
+
+## 🧠 Core Competencies
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Workflow Automation**
+- Designing multi-step n8n flows for production environments
+- Event-driven architectures with webhook triggers and async queues
+- Error handling, retry logic, and execution logging at scale
+
+**Backend Orchestration**
+- System design for document processing pipelines
+- API integration patterns (REST, webhooks, polling)
+- Async job management with queue-based architectures
+
+</td>
+<td valign="top" width="50%">
+
+**Data & Storage**
+- Relational schema design in Supabase / PostgreSQL
+- Structuring pipelines that process large document volumes
+- Audit trails, status tracking, and data integrity patterns
+
+**Infrastructure**
+- Managing multiple VPS environments in production
+- Deployment, monitoring, and system maintenance
+- Scalable, observable, fault-tolerant system design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<!-- Core Automation & Backend -->
+![n8n](https://img.shields.io/badge/n8n-Automation-EF4E3E?style=for-the-badge&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+<!-- APIs & Integration -->
+![REST APIs](https://img.shields.io/badge/REST_APIs-Integration-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-Event_Driven-6366F1?style=for-the-badge&logo=zapier&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- Frontend & AI -->
+![Next.js](https://img.shields.io/badge/Next.js-Frontend-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI_Tools-Applied-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-VPS_Infra-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🏗 Systems I've Built
+
+<details>
+<summary><strong>📄 Large-Scale Document Processing Pipeline</strong></summary>
+
+<br/>
+
+> **Challenge:** Process and classify thousands of documents automatically, with validation, structured storage, and failure recovery — without manual intervention.
+
+**Architecture:**
+- Ingestion via webhook triggers feeding into a prioritized queue
+- n8n workflows handling classification, extraction, and transformation
+- Supabase as the data layer with relational schemas and audit logging
+- Retry logic and dead-letter queues for failed jobs
+- Real-time status tracking per document with full execution history
+
+**Outcome:** A fully automated pipeline that handles production load with observability built in from day one.
+
+</details>
+
+<details>
+<summary><strong>🔗 Multi-System API Integration Layer</strong></summary>
+
+<br/>
+
+> **Challenge:** Connect disparate external systems with different APIs, authentication patterns, and data formats — and keep them in sync reliably.
+
+**Architecture:**
+- Webhook receivers and polling jobs for real-time and batch sync
+- Normalization layer to translate data models between systems
+- Error isolation so one failing integration doesn't cascade
+- Centralized logging of all API calls, responses, and retries
+- Modular design so new integrations can be added without refactoring
+
+**Outcome:** A stable integration layer that decouples systems and handles edge cases gracefully.
+
+</details>
+
+<details>
+<summary><strong>🖥 Production Automation Infrastructure (Multi-VPS)</strong></summary>
+
+<br/>
+
+> **Challenge:** Maintain multiple automation environments in production, each with different workloads, uptime requirements, and update cycles.
+
+**Architecture:**
+- Segmented VPS environments by workload type and criticality
+- Health monitoring with alerting on failures and anomalies
+- Structured deployment process with rollback capability
+- Log aggregation across services for centralized debugging
+- Automated maintenance tasks (cleanup, backup, re-queue)
+
+**Outcome:** Stable, observable infrastructure that runs autonomously with minimal manual intervention.
+
+</details>
+
+---
+
+## 📐 Engineering Principles
+
+```
+✦ Build for failure — assume things will break, handle them gracefully
+✦ Observability first — logs, status tracking, and alerts are not optional
+✦ Decouple aggressively — systems should be independent by default
+✦ Automate the repetitive — manual processes are a liability at scale
+✦ Design for maintainability — future you is also a stakeholder
+```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm open to international opportunities in **automation engineering**, **backend systems**, and **technical architecture** — whether full-time, contract, or consulting.
+
+If you're working on systems that need to scale reliably, let's talk.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" />
+
+</div>
