@@ -1,28 +1,23 @@
 <!--  CLIFFORDSON CETOUTE · Automation & Systems Engineer · Labs & Flows  -->
 
-<div align="center">
+<!-- HEADER WAVE — onda limpa sem texto, sem & problemático -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1a22,40:1b2932,100:0d1a22&height=180&section=header&text=&fontSize=0&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1a22,40:1b2932,100:0d1a22&height=220&section=header&text=Cliffordson%20Cetoute&fontSize=46&fontColor=d3b58e&fontAlignY=40&desc=Automation%20%26%20Systems%20Engineer%20%20%C2%B7%20%20Founder%20%40%20Labs%20%26%20Flows&descSize=16&descAlignY=62&descColor=8a7050&animation=fadeIn" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cliffordson01/Cliffordson01/main/name.svg" alt="Cliffordson Cetoute" width="700"/>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=16&duration=2800&pause=1400&color=8A9BA8&center=true&vCenter=true&width=680&lines=Building+systems+that+run+while+you+sleep.;Pipelines+that+recover+from+their+own+failures.;Infrastructure+that+scales+without+you." alt="Typing SVG" /></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=16&duration=2800&pause=1400&color=8A9BA8&center=true&vCenter=true&width=680&lines=Building+systems+that+run+while+you+sleep.;Pipelines+that+recover+from+their+own+failures.;Infrastructure+that+scales+without+you." />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/cliffordson-cetoute-264411348/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1B2932?style=for-the-badge&logo=linkedin&logoColor=d3b58e&labelColor=1B2932"/>
-</a>
-&nbsp;
-<a href="mailto:cliffordsoncetoute004@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-1B2932?style=for-the-badge&logo=gmail&logoColor=d3b58e&labelColor=1B2932"/>
-</a>
-&nbsp;
-<a href="https://labsandflows.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Labs_%26_Flows-1B2932?style=for-the-badge&logo=vercel&logoColor=d3b58e&labelColor=1B2932"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cliffordson-cetoute-264411348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1B2932?style=for-the-badge&logo=linkedin&logoColor=d3b58e&labelColor=1B2932"/></a>
+  &nbsp;
+  <a href="mailto:cliffordsoncetoute004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1B2932?style=for-the-badge&logo=gmail&logoColor=d3b58e&labelColor=1B2932"/></a>
+  &nbsp;
+  <a href="https://labsandflows.com.br" target="_blank"><img src="https://img.shields.io/badge/Labs_%26_Flows-1B2932?style=for-the-badge&logo=vercel&logoColor=d3b58e&labelColor=1B2932"/></a>
+</p>
 
 <br/>
 
@@ -41,7 +36,7 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -51,57 +46,11 @@
 
 <br/>
 
-<div align="center">
-<table border="0" cellpadding="0" cellspacing="0" width="94%">
-<tr valign="top">
-<td width="48%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cliffordson01/Cliffordson01/main/core-engineering.svg" alt="Core Engineering" width="100%"/>
+</p>
 
-```yaml
-WORKFLOW AUTOMATION:
-  - n8n multi-step flows, production grade
-  - Event-driven arch with async queues
-  - Retry logic and dead-letter queues
-  - Webhook triggers & scheduled jobs
-  - Full execution logging at scale
-```
-
-```yaml
-BACKEND ORCHESTRATION:
-  - Document processing pipeline design
-  - REST & webhook integration patterns
-  - Queue-based async job management
-  - Error isolation & fault boundaries
-  - API normalization across systems
-```
-
-</td>
-<td width="4%"></td>
-<td width="48%">
-
-```yaml
-DATA & STORAGE:
-  - Relational schema design (Supabase/PG)
-  - High-volume document pipelines
-  - Audit trails & status tracking
-  - Data integrity patterns at scale
-  - Structured flows with validation layers
-```
-
-```yaml
-INFRASTRUCTURE:
-  - Multi-VPS production management
-  - Deployment, monitoring, maintenance
-  - Health checks & anomaly alerting
-  - Log aggregation across services
-  - Observable, fault-tolerant design
-```
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/><br/>
+<br/>
 
 ---
 
@@ -111,33 +60,25 @@ INFRASTRUCTURE:
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <sub>AUTOMATION CORE &nbsp;·&nbsp; DATA & BACKEND &nbsp;·&nbsp; FRONTEND &nbsp;·&nbsp; TOOLS & CLOUD</sub>
+</p>
 
-<sub>AUTOMATION CORE</sub>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,linux,docker&theme=dark" height="40"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/n8n-1B2932?style=flat-square&logo=n8n&logoColor=EF4E3E" height="40" style="border-radius:10px"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,js,ts&theme=dark" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,figma&theme=dark" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" height="40"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-1B2932?style=flat-square&logo=oracle&logoColor=F80000" height="40" style="border-radius:10px"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,linux,docker&theme=dark" height="46"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/n8n-1B2932?style=flat-square&logo=n8n&logoColor=EF4E3E" height="46" style="border-radius:10px"/>
-
-<br/><br/>
-
-<sub>DATA & BACKEND</sub>
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,js,ts&theme=dark" height="46"/>
-
-<br/><br/>
-
-<sub>FRONTEND & INTERFACES</sub>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,figma&theme=dark" height="46"/>
-
-<br/><br/>
-
-<sub>TOOLS & CLOUD</sub>
-
-<img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" height="46"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Oracle%20Cloud-1B2932?style=flat-square&logo=oracle&logoColor=F80000" height="46" style="border-radius:10px"/>
-
-</div>
-
-<br/><br/>
+<br/>
 
 ---
 
@@ -149,71 +90,23 @@ INFRASTRUCTURE:
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  01 · LARGE-SCALE DOCUMENT PROCESSING PIPELINE                          ║
-║  n8n · Supabase · Queues · Webhooks · Dead-letter pattern               ║
-╚══════════════════════════════════════════════════════════════════════════╝
-
-  Problem → Thousands of documents needed to be classified, extracted
-            and stored automatically, with zero tolerance for silent
-            failures and without any manual intervention.
-
-  INGEST    →  Webhook triggers feed a prioritized processing queue
-  PROCESS   →  n8n: classify · extract · transform · validate
-  STORE     →  Supabase with relational schemas + full audit log
-  RECOVER   →  Dead-letter queues + automatic retry on failure
-  OBSERVE   →  Per-document status tracking + full execution history
-
-  Result    →  Self-healing pipeline. Running in production.
-               Observable from day one.
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cliffordson01/Cliffordson01/main/system-01.svg" alt="System 01 - Large-Scale Document Processing Pipeline" width="100%"/>
+</p>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  02 · MULTI-SYSTEM API INTEGRATION LAYER                                ║
-║  REST · Webhooks · Normalization · Error Isolation · Logging            ║
-╚══════════════════════════════════════════════════════════════════════════╝
-
-  Problem → Multiple external systems — different APIs, auth models,
-            schemas — needing real-time sync without one failure
-            bringing down the rest.
-
-  RECEIVE    →  Webhook receivers + polling jobs — real-time & batch
-  NORMALIZE  →  Translation layer to unify data models across systems
-  ISOLATE    →  Error boundaries — a failing integration stays contained
-  LOG        →  Centralized logging: API calls, responses, retries
-  SCALE      →  Modular — add new integrations without refactoring
-
-  Result     →  Decoupled integration backbone that handles edge
-                cases without drama.
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cliffordson01/Cliffordson01/main/system-02.svg" alt="System 02 - Multi-System API Integration Layer" width="100%"/>
+</p>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  03 · PRODUCTION AUTOMATION INFRA — LABS & FLOWS                        ║
-║  Multi-VPS · Monitoring · Deployment · Self-healing · Log Aggregation   ║
-╚══════════════════════════════════════════════════════════════════════════╝
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cliffordson01/Cliffordson01/main/system-03.svg" alt="System 03 - Production Automation Infra" width="100%"/>
+</p>
 
-  Problem → Multiple environments in production — different workloads,
-            uptime SLAs, release cycles — managed by one person,
-            zero ops team.
-
-  SEGMENT    →  VPS environments by workload type & criticality
-  MONITOR    →  Health checks + alerting on anomalies and failures
-  DEPLOY     →  Structured process with rollback capability
-  AGGREGATE  →  Centralized log collection across all services
-  AUTOMATE   →  Maintenance: cleanup · backup · re-queue — automated
-
-  Result     →  Infrastructure that operates autonomously.
-               The backbone of labsandflows.com.br
-```
-
-<br/><br/>
+<br/>
 
 ---
 
@@ -231,7 +124,7 @@ INFRASTRUCTURE:
   Design to maintain    →  Future you is also a stakeholder.
 ```
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -241,53 +134,24 @@ INFRASTRUCTURE:
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A1CF8D105535A6E101289D08018E64FECBF66EB486866C50E1A459A1F91005D5" target="_blank"><img src="https://img.shields.io/badge/Oracle_Cloud_%7C_OCI_2025_Foundations_Associate-1B2932?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=1B2932"/></a>
+  &nbsp;
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/XTMKVVL2C36L" target="_blank"><img src="https://img.shields.io/badge/Google_%7C_UX_Design_Professional_Certificate-1B2932?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=1B2932"/></a>
+</p>
+<p align="center">
+  <a href="https://www.credly.com/badges/fa9f423f-2b48-42c0-8743-3afd9b363127" target="_blank"><img src="https://img.shields.io/badge/Credly_%7C_Google_UX_Design_Verified_Badge-1B2932?style=for-the-badge&logo=credly&logoColor=FF6B00&labelColor=1B2932"/></a>
+  &nbsp;
+  <a href="https://www.coursera.org/account/accomplishments/verify/Q5WK33I6LYUI" target="_blank"><img src="https://img.shields.io/badge/Google_%7C_Foundations_of_Data-1B2932?style=for-the-badge&logo=google&logoColor=34A853&labelColor=1B2932"/></a>
+</p>
 
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A1CF8D105535A6E101289D08018E64FECBF66EB486866C50E1A459A1F91005D5" target="_blank">
-  <img src="https://img.shields.io/badge/Oracle_Cloud_%7C_OCI_2025_Foundations_Associate-1B2932?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=1B2932"/>
-</a>
+<br/>
 
-<br/><br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cliffordson01/Cliffordson01/main/certifications.svg" alt="Google UX Design Certifications" width="100%"/>
+</p>
 
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/XTMKVVL2C36L" target="_blank">
-  <img src="https://img.shields.io/badge/Google_%7C_UX_Design_Professional_Certificate-1B2932?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=1B2932"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.credly.com/badges/fa9f423f-2b48-42c0-8743-3afd9b363127" target="_blank">
-  <img src="https://img.shields.io/badge/Credly_%7C_Google_UX_Design_Verified_Badge-1B2932?style=for-the-badge&logo=credly&logoColor=FF6B00&labelColor=1B2932"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.coursera.org/account/accomplishments/verify/Q5WK33I6LYUI" target="_blank">
-  <img src="https://img.shields.io/badge/Google_%7C_Foundations_of_Data-1B2932?style=for-the-badge&logo=google&logoColor=34A853&labelColor=1B2932"/>
-</a>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-```yaml
-Google UX Design — 7 Courses Completed:
-  Foundations of UX Design:                    95.30%  · Feb 2024
-  Empathize, Define & Ideate:                  91.87%  · Mar 2024
-  Wireframes & Low-Fidelity Prototypes:        85.87%  · Mar 2024
-  UX Research & Early Concept Testing:         93.12%  · Apr 2024
-  High-Fidelity Designs in Figma:              90.18%  · Jun 2024
-  Dynamic UI for Websites:                     89.30%  · Jun 2024
-  Design for Social Good:                      94.95%  · Jun 2024
-
-Skills: Figma · Design Thinking · Information Architecture
-        Responsive Web Design · Prototyping · Usability Testing
-```
-
-</div>
-
-<br/><br/>
+<br/>
 
 ---
 
@@ -313,7 +177,7 @@ Skills: Figma · Design Thinking · Information Architecture
 
 </div>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -327,17 +191,11 @@ Skills: Figma · Design Thinking · Information Architecture
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/cliffordson-cetoute-264411348/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1B2932?style=for-the-badge&logo=linkedin&logoColor=d3b58e&labelColor=1B2932"/>
-</a>
+<a href="https://www.linkedin.com/in/cliffordson-cetoute-264411348/" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1B2932?style=for-the-badge&logo=linkedin&logoColor=d3b58e&labelColor=1B2932"/></a>
 &nbsp;
-<a href="mailto:cliffordsoncetoute004@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-1B2932?style=for-the-badge&logo=gmail&logoColor=d3b58e&labelColor=1B2932"/>
-</a>
+<a href="mailto:cliffordsoncetoute004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Send%20an%20Email-1B2932?style=for-the-badge&logo=gmail&logoColor=d3b58e&labelColor=1B2932"/></a>
 &nbsp;
-<a href="https://labsandflows.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Labs%20%26%20Flows-1B2932?style=for-the-badge&logo=vercel&logoColor=d3b58e&labelColor=1B2932"/>
-</a>
+<a href="https://labsandflows.com.br" target="_blank"><img src="https://img.shields.io/badge/Visit%20Labs%20%26%20Flows-1B2932?style=for-the-badge&logo=vercel&logoColor=d3b58e&labelColor=1B2932"/></a>
 
 <br/><br/>
 
@@ -345,6 +203,6 @@ Skills: Figma · Design Thinking · Information Architecture
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1a22,40:1b2932,100:0d1a22&height=120&section=footer&animation=fadeIn"/>
-
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1a22,40:1b2932,100:0d1a22&height=120&section=footer&animation=fadeIn)
