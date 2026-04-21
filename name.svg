@@ -1,0 +1,30 @@
+<svg width="700" height="80" viewBox="0 0 700 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Sora:wght@700&amp;display=swap');
+    </style>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text
+    x="350" y="52"
+    font-family="'Sora', sans-serif"
+    font-size="38"
+    font-weight="700"
+    fill="#d3b58e"
+    text-anchor="middle"
+    letter-spacing="4"
+    filter="url(#glow)"
+    opacity="0"
+  >
+    Cliffordson Cetoute
+    <animate attributeName="opacity" from="0" to="1" dur="1.8s" begin="0.2s" fill="freeze"/>
+    <animate attributeName="letter-spacing" from="14" to="4" dur="1.8s" begin="0.2s" fill="freeze"/>
+  </text>
+</svg>
